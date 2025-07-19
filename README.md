@@ -9,7 +9,8 @@ Project consists of Arduino code that includes autonomous movements, IR control,
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Arduino</b> 
+- <b>Arduino</b>
+- <b>Arduino IDE</b> 
 
 <h2>Environments Used </h2>
 
