@@ -1,12 +1,5 @@
 
-/*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
- * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
- *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
- *                  (____/    
- * www.osoyoo.com IR remote control smart car
- * program tutorial https://osoyoo.com/2019/09/19/osoyoo-model-3-robot-learning-kit-lesson-2-ir-remote-controlled/
- *  Copyright John Yu
+/*  
  */
 #include "IRremote.hpp" 
 #define IR_RECEIVE_PIN  12 //IR receiver Signal pin connect to Arduino pin D12  
