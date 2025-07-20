@@ -24,6 +24,8 @@ Autonomous Driving (Code outputs the car moving forward for two seconds, reversi
   https://www.youtube.com/shorts/cmfrPBDaFV4
 
 <img src="https://i.imgur.com/jjxJYdx.jpeg" height="80%" width="80%" alt="Robot Car"/>
+
+<img src="https://i.imgur.com/1QLDwt0.jpeg" height="80%" width="80%" alt="Motor"/>
  
 <br />
 <br />
