@@ -33,14 +33,19 @@ IR Control:  <br/>
 
 https://www.youtube.com/shorts/OWHs2-cVgTM
 
+IR receiver that allows rc car to be controlled with a remote
+
 <br />
 <br />
 Ultrasonic Detection: <br/>
-https://youtube.com/shorts/nmNI62J5pxU
 
 <br />
 <br />
 Line Tracking:  <br/>
+
+https://youtube.com/shorts/nmNI62J5pxU
+
+Tracking sensor used to track lines on a road
 
 <br />
 <br />
