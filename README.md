@@ -47,6 +47,11 @@ https://youtube.com/shorts/nmNI62J5pxU
 
 Tracking sensor used to track lines on a road
 
+<img src="https://i.imgur.com/rPc52PG.jpeg" height="80%" width="80%" alt="Tracking Sensor"/>
+
+<img src="https://i.imgur.com/3sqTNEX.jpeg" height="80%" width="80%" alt="Tracking Sensor Wiring"/>
+
+
 <br />
 <br />
 App Control:  <br/>
