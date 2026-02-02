@@ -1,13 +1,7 @@
-/*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
- * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
- *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
- *                  (____/ 
- * Osoyoo Wifi Arduino Robot Car project
+/* 
  * USe WI-FI UDP protocol to control robot car
- * tutorial url: https://osoyoo.com/?p=32758
  */
-/*Declare L298N Dual H-Bridge Motor Controller directly since there is not a library to load.*/
+/*Declare L298N Dual H-Bridge Motor Controller directly since there is not a library to load.*
 
 
 //Define L298N Dual H-Bridge Motor Controller Pins
