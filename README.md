@@ -39,13 +39,25 @@ IR receiver that allows rc car to be controlled with a remote
 <br />
 Ultrasonic Detection: <br/>
 
+https://youtube.com/shorts/t_8fgBPIHT4
+
+Installed an ultrasonic sensor on the robot car and programmed the car to keep some distance from object to move
+
+<img src="https://i.imgur.com/dImTMOa.jpeg" height="80%" width="80%" alt="Wiring"/>
+
+<img src="https://i.imgur.com/a58asMc.jpeg" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/B4Kep9g.jpeg" height="80%" width="80%" alt="Servo Motor"/>
+
+<img src="https://i.imgur.com/zn4cHof.jpeg" height="80%" width="80%" alt="Buzzer Sensor Module"/>
+
 <br />
 <br />
 Line Tracking:  <br/>
 
 https://youtube.com/shorts/nmNI62J5pxU
 
-Tracking sensor used to track lines on a road
+Tracking sensor to track lines on a road
 
 <img src="https://i.imgur.com/rPc52PG.jpeg" height="80%" width="80%" alt="Tracking Sensor"/>
 
